@@ -1,0 +1,29 @@
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\OneDrive\Aleena\Christ_UNI_ academics\4_tri\SPD\EDS>python -m venv venv
+
+D:\OneDrive\Aleena\Christ_UNI_ academics\4_tri\SPD\EDS>.\venv\Scripts\activate
+
+(venv) D:\OneDrive\Aleena\Christ_UNI_ academics\4_tri\SPD\EDS>pip install -r requirements.txt
+Collecting crewai
+  Using cached crewai-0.41.1-py3-none-any.whl (91 kB)
+Collecting groq
+  Using cached groq-0.9.0-py3-none-any.whl (103 kB)
+Collecting langchain-groq
+  Using cached langchain_groq-0.1.6-py3-none-any.whl (14 kB)
+Collecting python-dotenv
+  Using cached python_dotenv-1.0.1-py3-none-any.whl (19 kB)
+Collecting bcrypt
+  Using cached bcrypt-4.0.1-cp310-cp310-win_amd64.whl (54 kB)
+Collecting pydantic
+  Using cached pydantic-2.4.2-py3-none-any.whl (243 kB)
+Collecting pydantic_core
+  Using cached pydantic_core-2.14.6-cp310-cp310-win_amd64.whl (417 kB)
+install all libraries
+
+
+streamlit run d:/OneDrive/Aleena/Christ_UNI_ academics/4_tri/SPD/EDS/main.py
+For more information, please see https://docs.streamlit.io
+
+https://docs.streamlit.io
